@@ -1,2 +1,2 @@
 # my-first-repo
-我的第一个 GitHub 仓库
+仓库管理系统
